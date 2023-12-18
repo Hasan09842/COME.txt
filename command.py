@@ -174,7 +174,7 @@ while attemps < 12345677901:
     username = input('Enter username: ')
     password = input('Enter password: ')
 
-    if username == 'HASAN'and password == 'TASNIM',:
+    if username == 'SUN'and password == 'XXX',:
         print('You have successfully logged in.')
         break
     else:
